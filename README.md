@@ -1,4 +1,4 @@
-# 🚀 Ulaş Bayram | Full-Stack Developer & Systems Enthusiast
+# Ulaş Bayram | Full-Stack Developer & Systems Enthusiast
 
 Selam! Ben Ulaş. İstanbul Üniversitesi - Cerrahpaşa'da BÖTE öğrencisiyim. Yazılım geliştirme, siber güvenlik ve kendi sistemlerimi (Self-hosting) yönetmekle ilgileniyorum.
 
@@ -12,7 +12,7 @@ Bu repo, benim kişisel portfolyo sitemin kaynak kodlarını ve kurulum detaylar
 * **Araçlar:** Unity, Adobe Creative Suite, Git
 * **Sistem & Network:** Linux (Ubuntu/Debian), Cloudflare Tunnels, Nginx, Firewall Config
 
-## 🏠 Proje Altyapısı (Self-Hosted)
+## Proje Altyapısı (Self-Hosted)
 
 Bu portfolyo sitesi sadece bir kod yığını değil, aynı zamanda kendi **Home Server**'ım üzerinde yaşıyor! 
 
@@ -21,7 +21,7 @@ Bu portfolyo sitesi sadece bir kod yığını değil, aynı zamanda kendi **Home
 * **Erişim:** Cloudflare Tunnels (Zero Trust) üzerinden güvenli bağlantı
 * **Domain:** [ulasbayram.me](https://ulasbayram.me)
 
-## 📂 Öne Çıkan Projelerim
+## Öne Çıkan Projelerim
 
 | Proje Adı | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ Bu portfolyo sitesi sadece bir kod yığını değil, aynı zamanda kendi **Home
 | **QR Cafe Menu** | Restoranlar için dinamik karekod menü sistemi. | React, Firebase |
 | **User Hub** | Kullanıcılar için hayat kolaylaştıran araçlar bulunduran bir arayüz | Python, HTML |
 
-## 🚀 Yerel Kurulum (Local Setup)
+## Yerel Kurulum (Local Setup)
 
 Projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
 
