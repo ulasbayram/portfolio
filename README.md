@@ -4,7 +4,7 @@ Selam! Ben Ulaş. İstanbul Üniversitesi - Cerrahpaşa'da BÖTE öğrencisiyim.
 
 Bu repo, benim kişisel portfolyo sitemin kaynak kodlarını ve kurulum detaylarını içerir.
 
-## 🛠️ Teknik Yetkinlikler
+## Teknik Yetkinlikler
 
 * **Diller:** JavaScript, TypeScript, Python, C#, Java
 * **Frontend:** React, Next.js, Tailwind CSS, HTML5/CSS3
